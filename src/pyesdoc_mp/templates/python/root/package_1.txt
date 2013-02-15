@@ -1,0 +1,12 @@
+"""
+.. module:: {ontology-name}.{file-name}
+
+   :copyright: @{datetime-year} Earth System Documentation (http://es-doc.org)
+   :license: GPL / CeCILL
+   :platform: Unix, Windows
+   :synopsis: The {ontology-name} package initialisor.
+
+.. moduleauthor:: Earth System Documentation (ES-DOC) <dev@es-doc.org>
+.. note:: Code generated using ES-DOC pycim_mp @ {datetime-now}.
+
+"""

@@ -1,0 +1,43 @@
+"""
+.. module:: {ontology-name}.v{ontology-version-packagename}.types.{package-name}.{file-name}
+
+   :copyright: @{datetime-year} Earth System Documentation (http://es-doc.org)
+   :license: GPL / CeCILL
+   :platform: Unix, Windows
+   :synopsis: A concrete class within the {ontology-name} v{ontology-version} type system.
+
+.. moduleauthor:: Earth System Documentation (ES-DOC) <dev@es-doc.org>
+.. note:: Code generated using ES-DOC pycim_mp @ {datetime-now}.
+
+"""
+
+# Module imports.
+import abc
+from abc import ABCMeta
+from abc import abstractmethod
+from abc import abstractproperty
+import datetime
+import types
+import uuid
+
+{class-imports}
+
+
+
+class {class-name}({base-class-name}):
+    """An abstract class within the {ontology-name} v{ontology-version} type system.
+
+    {class-doc-string}
+    """
+    # Abstract Base Class module.
+    # N.B. - see http://docs.python.org/library/abc.html
+    __metaclass__ = ABCMeta
+
+    def __init__(self):
+        """Constructor"""
+        super({class-name}, self).__init__(){class-properties}{class_constants}{class-representations}
+
+
+# Circular reference imports.
+# N.B. - see http://effbot.org/zone/import-confusion.htm
+{class-circular-imports}

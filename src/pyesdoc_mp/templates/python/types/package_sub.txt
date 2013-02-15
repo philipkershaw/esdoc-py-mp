@@ -1,0 +1,16 @@
+"""
+.. module:: {ontology-name}.v{ontology-version-packagename}.types.{package-name}.{file-name}
+
+   :copyright: @{datetime-year} Earth System Documentation (http://es-doc.org)
+   :license: GPL / CeCILL
+   :platform: Unix, Windows
+   :synopsis: A set of {ontology-name} {ontology-version} {package-name} package types.
+
+.. moduleauthor:: Earth System Documentation (ES-DOC) <dev@es-doc.org>
+.. note:: Code generated using ES-DOC pycim_mp @ {datetime-now}.
+
+"""
+
+# Module imports.
+{module-imports}
+

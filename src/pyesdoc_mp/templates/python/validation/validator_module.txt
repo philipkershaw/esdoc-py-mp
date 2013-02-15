@@ -1,0 +1,19 @@
+"""
+.. module:: {ontology-name}.v{ontology-version-packagename}.validation.{file-name}
+
+   :copyright: @{datetime-year} Earth System Documentation (http://es-doc.org)
+   :license: GPL / CeCILL
+   :platform: Unix, Windows
+   :synopsis: A set of validators over the {ontology-name}.v{ontology-version-packagename}.{package-name} package.
+
+.. moduleauthor:: Earth System Documentation (ES-DOC) <dev@es-doc.org>
+.. note:: Code generated using ES-DOC pycim_mp @ {datetime-now}.
+
+"""
+
+# Module imports.
+{module-imports}
+
+
+
+{validation-functions}

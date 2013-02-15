@@ -1,0 +1,11 @@
+def validate_{class-function-name}(instance):
+    """Validates an instance of the following type: {ontology-name}.v{ontology-version-packagename}.types.{package-name}.{class-name}.
+
+    :param instance: A type instance being validated.
+    :type instance: {ontology-name}.v{ontology-version-packagename}.types.{package-name}.{class-name}
+    :returns: List of validation errors.
+    :rtype: list
+
+    """
+    # TODO implement via mp framework.
+    return True
