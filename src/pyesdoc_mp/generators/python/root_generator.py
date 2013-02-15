@@ -10,7 +10,7 @@
 
 # Module imports.
 from pyesdoc_mp.generators.generator import Generator
-from pyesdoc_mp.generators.generator_utils import get_template
+from pyesdoc_mp.utils.generation import get_template
 from pyesdoc_mp.generators.python.utils import (
     get_ontology_directory,
     get_package_init_file_name

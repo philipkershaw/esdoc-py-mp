@@ -4,7 +4,7 @@
 # Module imports.
 from operator import add
 
-from pyesdoc_mp.generators.generator_utils import *
+from pyesdoc_mp.utils.generation import *
 
 
 

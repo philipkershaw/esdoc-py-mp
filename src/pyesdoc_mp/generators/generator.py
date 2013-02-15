@@ -12,7 +12,7 @@
 from abc import ABCMeta
 
 from pyesdoc_mp.generators.generator_context import GeneratorContext
-from pyesdoc_mp.generators.generator_utils import write_file
+from pyesdoc_mp.utils.generation import write_file
 
 
 

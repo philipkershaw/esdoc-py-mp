@@ -1,5 +1,5 @@
 """
-.. module:: pyesdoc_mp.generators.generator_utils
+.. module:: pyesdoc_mp.utils.generation
    :platform: Unix, Windows
    :synopsis: Set of common generator utility functions.
 
@@ -12,7 +12,6 @@
 import datetime
 import os
 import pwd
-import sys
 
 from pyesdoc_mp import TEMPLATE_FOLDER
 

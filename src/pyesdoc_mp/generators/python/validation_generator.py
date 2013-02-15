@@ -12,7 +12,7 @@
 from operator import add
 
 from pyesdoc_mp.generators.generator import Generator
-from pyesdoc_mp.generators.generator_utils import (
+from pyesdoc_mp.utils.generation import (
     emit_line_return,
     get_template
     )
