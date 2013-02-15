@@ -1,0 +1,1 @@
+Add unit tests - especially for schema configuration validation
