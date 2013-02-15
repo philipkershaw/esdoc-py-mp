@@ -31,9 +31,6 @@ from pyesdoc_mp.utils.validation import (
 __version__ = '0.2'
 
 
-# Templates path.
-TEMPLATE_FOLDER = os.path.dirname(__file__) + '/templates'
-
 
 def generate(ontology_schema, language, output_dir):
     """Generates code.

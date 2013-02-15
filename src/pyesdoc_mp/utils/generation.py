@@ -13,9 +13,10 @@ import datetime
 import os
 import pwd
 
-from pyesdoc_mp import TEMPLATE_FOLDER
 
 
+# Templates folder.
+TEMPLATE_FOLDER = os.path.dirname(__file__).replace('/utils', '/templates')
 
 # Standard 4 character python indent.
 _INDENT = '    '
